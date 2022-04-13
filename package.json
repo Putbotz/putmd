@@ -1,7 +1,7 @@
 {
-    "name": "games-wabot",
-    "version": "0.9.86",
-    "description": "Customizable WhatsApp Bot",
+    "name": "Putbotz",
+    "version": "9.4.9",
+    "description": "Create By Putbotz Ganteng",
     "main": "index.js",
     "type": "module",
     "directories": {
