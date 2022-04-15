@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'wa.me/60147366955'
-global.author = 'iYeen by Putbotz🦕'
+global.author = 'by Putbotz🦕'
 
 global.multiplier = 999 // The higher, The harder levelup
 
